@@ -1,0 +1,17 @@
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\VkDownloader.csprojResolveAssemblyReference.cache
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\VkDownloader.csproj.GenerateResource.Cache
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Downloader.exe
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Downloader.pdb
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\Downloader.exe
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\Downloader.pdb
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\Downloader.SettingsForm.resources
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\Downloader.Vk.resources
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\obj\Debug\Downloader.MainForm.resources
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\YoutubeExtractor.dll
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gladius882\Documents\SharpDevelop Projects\VkDownloader\VkDownloader\bin\Debug\YoutubeExtractor.xml
